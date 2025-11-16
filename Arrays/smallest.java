@@ -5,7 +5,7 @@ public class smallest {
     {
         int arr[]= {3,5,7,8,9};
         int smallest = arr[0];
-        for(int i =0;i<arr.length;i++)
+        for(int i =0;i<arr.length;i++)            
         {
             if(arr[i]<smallest)
             {

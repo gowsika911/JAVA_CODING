@@ -1,3 +1,4 @@
+
 public class sum_of_even_and_odd{
     public static void main(String[] args)
     {
@@ -6,7 +7,7 @@ public class sum_of_even_and_odd{
         while(i<=10)
         {
             i++;
-          /*   if(i%2==0)
+             /*if(i%2==0) 
             {
                 sum+=i;
                
@@ -18,6 +19,7 @@ public class sum_of_even_and_odd{
 
         }
         System.out.println("sum of odd number is:"+sum);
+       
     }
 
     

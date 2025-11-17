@@ -1,5 +1,5 @@
 //pyramid pattern
-package pattern_problems;
+package patternproblems;
 public class pattern3 {
     public static void main(String[] args) {
         int n = 5;

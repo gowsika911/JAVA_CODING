@@ -1,6 +1,6 @@
                      //inverted star pattern
 
-package pattern_problems;
+package patternproblems;
 
 public class pattern2 {
     public static void main(String[] args) {

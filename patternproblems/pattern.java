@@ -1,3 +1,6 @@
+package patternproblems;
+ 
+                                   //simple pattern problem
 public class pattern {
     public static void main(String[] args) {
     int n = 4;

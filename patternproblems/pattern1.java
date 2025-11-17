@@ -1,7 +1,7 @@
 
                                   //simple pattern problem
 
-package pattern_problems;
+package patternproblems;
 
 public class pattern1 {
     public static void main(String[] args) {

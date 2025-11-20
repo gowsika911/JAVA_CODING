@@ -1,3 +1,4 @@
+package Digitmanipulation;
 class loop
 {
 public static void main(String[] args)

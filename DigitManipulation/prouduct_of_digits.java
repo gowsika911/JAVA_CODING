@@ -1,3 +1,4 @@
+package Digitmanipulation;
 public class prouduct_of_digits {
     public static void main(String[] args)
     {

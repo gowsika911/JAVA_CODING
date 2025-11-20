@@ -1,3 +1,4 @@
+package Digitmanipulation;
 public class largest_digit_in_no {
     public static void main(String[] args) {
         int n =2345;

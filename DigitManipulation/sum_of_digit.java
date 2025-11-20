@@ -1,3 +1,4 @@
+package Digitmanipulation;
 public class sum_of_digit {
     public static void main (String[] args)                      // step1 :0+3              last digit-> n%10
     {                                                             // step2: 3+2=5           remove last number-> n/10

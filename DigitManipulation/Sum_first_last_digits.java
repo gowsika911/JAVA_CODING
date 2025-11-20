@@ -1,3 +1,4 @@
+package Digitmanipulation;
 public class Sum_first_last_digits {
     public static void main(String[] args) {
         int n=342;

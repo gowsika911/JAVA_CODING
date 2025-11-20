@@ -1,3 +1,4 @@
+package Digitmanipulation;
 import java.util.Scanner;
 public class first_n_odd {
     public static void main(String[] args)

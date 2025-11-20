@@ -1,4 +1,4 @@
-
+package Digitmanipulation;
 public class sum_of_even_and_odd{
     public static void main(String[] args)
     {

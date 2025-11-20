@@ -1,3 +1,5 @@
+package Digitmanipulation;
+
 public class check_digits_in_asscending {
     public static void main(String[] args) {
         

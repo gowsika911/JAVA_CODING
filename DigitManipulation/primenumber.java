@@ -1,3 +1,4 @@
+package Digitmanipulation;
 import java.util.Scanner;
 
 public class primenumber {

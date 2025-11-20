@@ -1,3 +1,4 @@
+package Digitmanipulation;
 public class count_digits {
     public static void main(String[] args)
     {
